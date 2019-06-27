@@ -2,8 +2,7 @@
 
 *Jake VanderPlas, Summer 2016*
 
-Fill in the fields to see the markdown badge snippet.
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jakevdp/WhirlwindTourOfPython/master)
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
 [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
 
